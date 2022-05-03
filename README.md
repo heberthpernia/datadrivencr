@@ -1,4 +1,5 @@
 # datadrivencr
+<<<<<<< HEAD
 
 Personal Website of Heberth Pernia
 
@@ -46,3 +47,6 @@ Moved to [Live reloading and SASS compilation](https://cookiecutter-django.readt
 ## Deployment
 
 The following details how to deploy this application.
+=======
+Persona website for Heberth Pernia
+>>>>>>> 476e7ad314e8898d3dea17534ab3f6f88b7730b2
